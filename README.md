@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marcos Cruz</h1>
+<h3 align="center">Apaixonado por Ciência e Analise de Dados</h3>
 
-<!--
-**engmarcosvcruz/engmarcosvcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱Atualmente estou aprendendo **SQL, Python e Power BI**
 
-Here are some ideas to get you started:
+- 💬 Me pergunte sobre **Power BI, Excel e SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫Você acha através do e-mail **markos.v.cruz@gmail.com**
+
+- 📄 O meu Linkedin [https://www.linkedin.com/in/marcos-vinicius-cruz-719095195/](https://www.linkedin.com/in/marcos-vinicius-cruz-719095195/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-vinicius-cruz-719095195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-vinicius-cruz-719095195/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engmarcosvcruz&show_icons=true&locale=en&layout=compact" alt="engmarcosvcruz" /></p>
