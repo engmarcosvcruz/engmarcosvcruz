@@ -4,7 +4,7 @@
 <h4 align="center">Neste repositório falaremos sobre análises no Sistema de Distribuição de Energia</h4>
 
 
-- 🌱Atualmente estou aprendendo **SQL, Python, R e Power BI**
+- 🌱 Compartilho experiências sobre **SQL, Python, R e Power BI**
 
 - 💬 Me pergunte sobre **Power BI, Excel e SQL**
 
