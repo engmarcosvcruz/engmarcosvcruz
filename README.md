@@ -3,6 +3,9 @@
 <h3 align="center">Apaixonado por Ciência e Analise de Dados</h3>
 <h3 align="center">Neste repositório falarei sobre o Sistema Elétrico</h3>
 
+
+
+
 - 🌱Atualmente estou aprendendo **SQL, Python, R e Power BI**
 
 - 💬 Me pergunte sobre **Power BI, Excel e SQL**
