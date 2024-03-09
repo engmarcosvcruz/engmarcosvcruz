@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Cruz</h1>
-<h3 align="center">Analista de Distribuição Pleno</h3>
+<h3 align="center">Engenheiro Eletricista</h3>
 <h3 align="center">Apaixonado por Analise de Dados</h3>
 <h4 align="center">Neste repositório falaremos sobre análises no Sistema de Distribuição de Energia</h4>
 
