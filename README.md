@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Cruz</h1>
 <h3 align="center">Analista de Distribuição Pleno</h3>
-<h3 align="center">Apaixonado por Ciência e Analise de Dados</h3>
+<h3 align="center">Apaixonado por Analise de Dados</h3>
 <h3 align="center">Neste repositório falarei sobre o Sistema Elétrico</h3>
-
-
 
 
 - 🌱Atualmente estou aprendendo **SQL, Python, R e Power BI**
