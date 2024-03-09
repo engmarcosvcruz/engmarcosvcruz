@@ -8,7 +8,7 @@
 
 - 💬 Me pergunte sobre **Power BI, Excel e SQL**
 
-- 📫Você acha através do e-mail **markos.v.cruz@gmail.com**
+- 📫Você acha através do e-mail **eng.marcosvcruz@gmail.com**
 
 - 📄 O meu Linkedin [https://www.linkedin.com/in/marcos-vinicius-cruz-719095195/](https://www.linkedin.com/in/marcos-vinicius-cruz-719095195/)
 
