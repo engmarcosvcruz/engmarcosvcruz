@@ -26,7 +26,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> </a> </p>
 <p align="left"> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="100" height="100"/> </a> </p>
 <p align="left"> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="100"/> </a> </p>
